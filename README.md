@@ -17,7 +17,7 @@ This project includes an HTML file that:
 
 ## Installation Instructions
 
-To view the webpage, clone the repository and open the `index.html` file in your web browser.
+To view the webpage, clone the repository and open the `web5.html` file in your web browser.
 
 Explanation:
 
